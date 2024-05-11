@@ -21,8 +21,3 @@ This project is a clone of the Netflix home screen interface, developed using HT
 ![5](https://github.com/Preritmujoo/Netflix-Clone/assets/95234935/967b0531-0089-44da-9764-af97030a195f)
 ![6](https://github.com/Preritmujoo/Netflix-Clone/assets/95234935/4ba8fb83-967a-43dd-9280-4126c6283fdb)
 ![7](https://github.com/Preritmujoo/Netflix-Clone/assets/95234935/bfa4136e-7cc4-404a-b82e-d130982bbc9c)
-
-## Deployment:
-This Netflix clone is deployed and accessible [here](https://netflix-clone-by-me.netlify.app/). Simply visit the provided URL to explore the home screen interface.
-
-
