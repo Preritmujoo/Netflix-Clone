@@ -2,6 +2,11 @@
 
 This project is a clone of the Netflix home screen interface, developed using HTML and CSS. It aims to replicate the look and feel of the Netflix homepage, providing users with a familiar browsing experience.
 
+## Table of Contents
+- [Features](#features)
+- [Technologies Used](#technologies-used)
+- [Screenshots](#screenshots)
+
 ## Features:
 
 - **Responsive Design**: The interface is designed to be responsive, ensuring optimal viewing across various devices and screen sizes.
